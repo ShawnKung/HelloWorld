@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+<head>
+<title>RSS</title>
+</head>
+<body>
+<outline text="English" title="English">
+<outline type="rss" title="The Verge" htmlUrl="https://www.theverge.com/" xmlUrl="http://www.theverge.com/rss/full.xml" text="The Verge" />
+<outline text="Android Central" htmlUrl="https://www.androidcentral.com/" type="rss" xmlUrl="http://www.androidcentral.com/feed" title="Android Central" />
+<outline htmlUrl="https://www.engadget.com/rss-full.xml" text="Engadget RSS Feed" xmlUrl="http://www.engadget.com/rss-full.xml" type="rss" title="Engadget RSS Feed" />
+</outline>
+<outline title="Entertainment" text="Entertainment">
+<outline title="瞎扯 - 知乎日报" htmlUrl="https://daily.zhihu.com/" xmlUrl="http://zhihurss.miantiao.me/section/id/2" type="rss" text="瞎扯 - 知乎日报" />
+<outline text="青年图摘" title="青年图摘" type="rss" htmlUrl="https://qingniantuzhai.com/" xmlUrl="https://qingniantuzhai.com/feed" />
+</outline>
+<outline text="IT" title="IT">
+<outline type="rss" text="Appinn" xmlUrl="http://feeds.appinn.com/appinns/" title="Appinn" htmlUrl="http://www.appinn.com" />
+<outline type="rss" title="IT之家" text="IT之家" htmlUrl="http://www.ithome.com/" xmlUrl="https://www.ithome.com/rss" />
+<outline xmlUrl="http://www.alibuybuy.com/feed" text="互联网的那点事" title="互联网的那点事" htmlUrl="http://www.alibuybuy.com" type="rss" />
+<outline xmlUrl="http://sspai.com/feed" type="rss" text="少数派" title="少数派" htmlUrl="https://sspai.com" />
+<outline text="雷锋网" xmlUrl="http://www.leiphone.com/feed" type="rss" htmlUrl="https://www.leiphone.com" title="雷锋网" />
+</outline>
+<outline title="Life" text="Life">
+<outline text="wikiHow" xmlUrl="http://zh.wikihow.com/feed.rss" type="rss" title="wikiHow" htmlUrl="https://zh.wikihow.com/Main-Page" />
+<outline xmlUrl="http://feed.smzdm.com" text="什么值得买" title="什么值得买" type="rss" htmlUrl="http://www.smzdm.com/youhui/" />
+<outline htmlUrl="http://zuimeia.com/?utm_source=rss&amp;utm_campaign=rss&amp;utm_medium=toutiao" title="最美应用" type="rss" text="最美应用" xmlUrl="http://zuimeia.com/feed/" />
+<outline type="rss" text="福利吧" htmlUrl="https://fulibus.net" title="福利吧" xmlUrl="http://fuliba.net/feed" />
+</outline>
+<outline text="Magazine" title="Magazine">
+<outline title="ONE · 一个" htmlUrl="http://wufazhuce.com" xmlUrl="https://feedx.co/rss/one.xml?" text="ONE · 一个" type="rss" />
+<outline title="好奇心日报" htmlUrl="http://www.qdaily.com" text="好奇心日报" type="rss" xmlUrl="https://www.qdaily.com/feed.xml" />
+</outline>
+<outline title="News" text="News">
+<outline type="rss" xmlUrl="http://www.nytimes.com/services/xml/rss/nyt/HomePage.xml" title="The New York Times" text="The New York Times" htmlUrl="https://nytimes.com" />
+<outline htmlUrl="https://time.com" text="TIME" type="rss" xmlUrl="http://rss.time.com/web/time/rss/top/index.xml" title="TIME" />
+<outline text="CNN" xmlUrl="http://rss.cnn.com/rss/cnn_topstories.rss" title="CNN" type="rss" htmlUrl="https://www.cnn.com/index.html" />
+<outline type="rss" text="The Guardian" xmlUrl="http://www.guardian.co.uk/rssfeed/0,,1,00.xml" title="The Guardian" htmlUrl="https://www.theguardian.com/uk" />
+<outline type="rss" title="BBC" text="BBC" xmlUrl="http://newsrss.bbc.co.uk/rss/newsonline_world_edition/front_page/rss.xml" htmlUrl="https://www.bbc.co.uk/news/" />
+</outline>
+<outline text="Science" title="Science">
+<outline htmlUrl="http://www.matrix67.com/blog" type="rss" title="Matrix67" text="Matrix67" xmlUrl="http://www.matrix67.com/blog/feed" />
+<outline title="丁香园论坛" xmlUrl="http://www.dxy.cn/bbs/rss/2.0/all.xml" text="丁香园论坛" type="rss" htmlUrl="http://www.dxy.cn/bbs" />
+<outline title="果壳精选 guokr.com" xmlUrl="http://www.guokr.com/handpick/rss/?display=rss" text="果壳精选 guokr.com" type="rss" htmlUrl="https://www.guokr.com/" />
+</outline>
+<outline title="Tech" text="Tech">
+<outline type="rss" htmlUrl="http://www.udpwork.com/" xmlUrl="http://www.udpwork.com/feed" title="IT牛人博客聚合网站" text="IT牛人博客聚合网站" />
+<outline type="rss" htmlUrl="https://www.oschina.net" xmlUrl="http://www.oschina.net/blog/rss" title="OsChina.NET" text="OsChina.NET" />
+<outline htmlUrl="http://feed.cnblogs.com" type="rss" title="博客园_首页" xmlUrl="http://feed.cnblogs.com/blog/sitehome/rss" text="博客园_首页" />
+</outline>
+</body>
+</opml>
